@@ -4,7 +4,7 @@
  * 剪贴板内容格式化Markdown for Typecho后台编辑器
  *
  * @package Clipboard2markdown
- * @author Patrick95
+ * @author 大袋鼠
  * @version 1.0.0
  * @link https://muguang.me/
  */
