@@ -17,7 +17,7 @@
  
 ## Gratitude
 
- - [turndown](https://github.com/domchristie/turndown) by [Dom Christie](https://github.com/domchristie)
+ - [turndown.js](https://github.com/domchristie/turndown) by [Dom Christie](https://github.com/domchristie)
  - [clipboard2markdown](https://github.com/euangoddard/clipboard2markdown) by [euangoddard](https://github.com/euangoddard)
 
 ## LICENSE
