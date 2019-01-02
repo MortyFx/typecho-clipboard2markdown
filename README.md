@@ -13,7 +13,7 @@
  
  ## Screenshot
  
- ![screenshot.png](https://muguang.me/usr/uploads/2019/01/1720829494.gif)
+ ![screenshot.png](https://muguang.me/usr/uploads/2019/01/3573716863.png)
  
 ## Gratitude
 
